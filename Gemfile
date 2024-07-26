@@ -48,3 +48,7 @@ group :development do
   gem 'faker'
 end
 
+
+gem "graphiql-rails", "~> 1.10"
+
+gem "sprockets-rails", "~> 3.5"
